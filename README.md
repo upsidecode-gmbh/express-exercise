@@ -1,5 +1,9 @@
 # express-exercise
 
+### Test Data
+
+An example array of items is available at src/data.js and is imported as items in the index.js and in the app.test.js file
+
 ### Tasks
 
 1. GET /items - this should respond with a list of shopping items.
@@ -12,7 +16,6 @@
 
 6. filter functionality for the GET Route
 7. A sorting functionality for the GET Route
-
 
 ### Time
 
